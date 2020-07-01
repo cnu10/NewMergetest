@@ -1,1 +1,3 @@
 i am sample file.
+
+editing file for merge conflict - feature branch
