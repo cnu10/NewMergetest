@@ -1,7 +1,0 @@
-i am sample file.
-
-
-modifying file - conflict merge -  master baranch.
-
-editing file for merge conflict - feature branch
-
