@@ -1,2 +1,0 @@
-Hi i am sample test. here to test rebase concept
-modifying to create rebase conflict in master branch
