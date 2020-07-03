@@ -1,3 +1,5 @@
 Hi i am sample test. here to test rebase concept.
 
 modify for rebase conflict - mybranch 
+
+adding inof in file - to merge master inot feature
