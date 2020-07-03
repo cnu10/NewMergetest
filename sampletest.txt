@@ -1,3 +1,7 @@
 Hi i am sample test. here to test rebase concept.
 
+
 modify file in master branch - rebase conflict concept.
+
+modify feature branch - create rebase conflict.
+
