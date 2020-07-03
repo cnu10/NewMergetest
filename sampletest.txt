@@ -5,3 +5,5 @@ modify for rebase conflict - mybranch
 adding inof in file - to merge master inot feature
 
 adding info in file in master - to test rebase merge on feature
+
+adding info in file of feature - to rebase to master. 
