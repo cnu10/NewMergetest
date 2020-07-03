@@ -6,3 +6,5 @@ modify file in master branch - rebase conflict concept.
 modify feature branch - create rebase conflict.
 
 modifying master - rebase check with modifying readme in remote repo
+
+Adding this line to test stash, which will not be commited to remote repo after stashing.
