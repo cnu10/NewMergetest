@@ -6,3 +6,5 @@ Adding text to test and check stash pop command.
 modification to test multi stash
 
 test stash branch
+
+git tag test
