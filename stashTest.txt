@@ -2,3 +2,5 @@ created this new file to test stash, when commit happend this file should not sh
 123 
 
 Adding text to test and check stash pop command.
+
+modification to test multi stash
